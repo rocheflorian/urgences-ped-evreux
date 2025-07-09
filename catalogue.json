@@ -1,0 +1,23 @@
+{
+  "password": "evreux2024",
+  "protocoles": [
+    {
+      "name": "ACR enfant",
+      "file": "protocoles/ACR-enfant.pdf"
+    },
+    {
+      "name": "Allergie anaphylaxie",
+      "file": "protocoles/Allergie-anaphylaxie.pdf"
+    }
+  ],
+  "conseils": [
+    {
+      "name": "Paracétamol",
+      "file": "conseils/Paracetamol.pdf"
+    },
+    {
+      "name": "Fièvre",
+      "file": "conseils/Fievre.pdf"
+    }
+  ]
+}
